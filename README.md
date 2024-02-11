@@ -1,3 +1,9 @@
+# note to self
+
+I love how this site populates its content from notion. I'm thinking that this could become a really useful approach for the small-scale, local volunteer, not well resourced museum, cultural heritage place, or whatever. Like [wax](https://github.com/minicomp/wax) but less friction. Would need a deploy to netlify button etc...
+
+-sg, feb 11 2024
+
 # Source code for shiro.ws
 
 The project is using [Eleventy](https://www.11ty.dev) and [WebC](https://www.11ty.dev/docs/languages/webc/).
